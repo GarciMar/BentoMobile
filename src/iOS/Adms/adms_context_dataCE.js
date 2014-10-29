@@ -1,5 +1,6 @@
 [
 	{
+		"comScoreEnabled" : true,
 		"admsMeasureEnabled" : true,
 		"admsReportSuiteIDs"   : "viarnd",
 		"admsCharacterSet" : "ISO-8859-1",
