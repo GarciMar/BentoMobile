@@ -1,13 +1,13 @@
 [
 	{
 		"omnitureEnabled" : "true",
-		"omnitureSuite"   : "",
+		"omnitureSuite"   : "viarnd",
 		"omnitureChannel" : "Test Rig",
 		"omnitureCharSet" : "UTF-8",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
 		"omnitureLifecycleSessionTimeout" : "300",
-		"omnitureTrackingServer" : "sc.mtv.com",
+		"omnitureTrackingServer" : "",
 		"omnitureVisitorID" : "",
 		"omnitureDebugLogging" : "true",
 		"omnitureOfflineTrackingEnabled" : "true",
