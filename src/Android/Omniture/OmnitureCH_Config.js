@@ -2,8 +2,8 @@
 	{
 		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "viarnd",
-		"omnitureChannel" : "Bento TestRig Channel",
-		"omnitureCharSet" : "ISO-8859-1",
+		"omnitureChannel" : "Bananas",
+		"omnitureCharSet" : "UTF-8",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
 		"omnitureLifecycleSessionTimeout" : "300",
