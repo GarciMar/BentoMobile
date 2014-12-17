@@ -2,7 +2,7 @@
 	{
 		"omnitureEnabled" : "true",
 		"omnitureSuite"   : "viarnd",
-		"omnitureChannel" : "Bananas",
+		"omnitureChannel" : "Test Rig",
 		"omnitureCharSet" : "UTF-8",
 		"omnitureCurrencyCode" : "USD",
 		"omnitureSSL" : "false",
